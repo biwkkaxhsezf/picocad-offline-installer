@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Low--Poly+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 picoCAD Free Installer** — picoCAD is a free, tiny 3D modeling tool inspired by PS1-era low-poly aesthetics. Works without internet access, no account required. Full offline installation.
+**💻 picoCAD Free Installer** — picoCAD is a tiny 3D modeling tool for creating low-poly and pixelated 3D models. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About picoCAD
 
-picoCAD is a free, tiny 3D modeling tool inspired by PS1-era low-poly aesthetics. It runs entirely in a browser or as a small desktop app and is used to create charming low-polygon 3D models with a minimal, accessible interface.
+picoCAD is a tiny 3D modeling tool for creating low-poly and pixelated 3D models. Built in PICO-8 fantasy console aesthetics, picoCAD produces charming retro-style 3D objects with a unique workflow. Export models as OBJ files for use in other applications or games. Popular among pixel artists and indie developers who want a distinct lo-fi aesthetic in their 3D assets.
 
 ---
 
 ## ❌ Problem: picoCAD is hard to access
 
-- **Very Limited Tools** — Extremely minimal modeling capabilities by design
-- **Niche Style** — Specifically for low-poly retro game aesthetics
-- **No Professional Output** — Models require export and processing for game engine use
-- **Small Canvas** — Deliberately constrained environment limits model complexity
+- **Very Limited Features** — Intentionally constrained tool for a specific aesthetic
+- **Niche Appeal** — Lo-fi retro aesthetic not suitable for all projects
+- **Complex Modeling** — Curved or organic shapes very difficult to achieve
+- **Integration** — Workflow from picoCAD to modern game engines requires format conversion
 
 ---
 
@@ -121,7 +121,7 @@ picoCAD is a free, tiny 3D modeling tool inspired by PS1-era low-poly aesthetics
 
 ---
 
-**picoCAD Free Installer** — picoCAD is a free, tiny 3D modeling tool inspired by PS1-era low-poly aesthetics. Install without internet connection today!
+**picoCAD Free Installer** — picoCAD is a tiny 3D modeling tool for creating low-poly and pixelated 3D models. Install without internet connection today!
 
 <div align="center">
 
